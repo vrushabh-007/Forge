@@ -1,7 +1,5 @@
 # Forge
 
-> 🔨 A brief tagline or description of what Forge does (e.g. “A lightweight templating engine for generating HTML pages”).
-
 ## 🎯 Features
 
 - ✅ **Feature 1** — Describe core functionality (e.g. "Modular template parsing").
